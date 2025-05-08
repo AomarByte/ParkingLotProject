@@ -1,0 +1,12 @@
+/ParkingProject
+│
+├── src/
+│   ├── main.cpp
+│   └── vehicle.h
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+├── CONTRIBUTING.md
+├── CHANGELOG.md
+├── Structure.txt
